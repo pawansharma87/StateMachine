@@ -75,4 +75,6 @@ Subsequently an instance of a state machine is created, and events are received 
 
 In case of unsupported (state, event) combinations such as (3S, 2R) no state transition should be performed and suitable error message should be printed.
 
-Your program should be written according to Object Oriented Programming principles and you should demonstrate the functioning of your code with unit and functional test cases.  
+Your program should be written according to Object Oriented Programming principles and you should demonstrate the functioning of your code with unit and functional test cases.
+
+![Alt text](./1.png?raw=true "Optional Title")  
